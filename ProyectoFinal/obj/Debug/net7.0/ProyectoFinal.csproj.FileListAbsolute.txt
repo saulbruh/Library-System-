@@ -1,0 +1,14 @@
+C:\Coding\orienobjetos\ProyectoFinal\bin\Debug\net7.0\ProyectoFinal.exe
+C:\Coding\orienobjetos\ProyectoFinal\bin\Debug\net7.0\ProyectoFinal.deps.json
+C:\Coding\orienobjetos\ProyectoFinal\bin\Debug\net7.0\ProyectoFinal.runtimeconfig.json
+C:\Coding\orienobjetos\ProyectoFinal\bin\Debug\net7.0\ProyectoFinal.dll
+C:\Coding\orienobjetos\ProyectoFinal\bin\Debug\net7.0\ProyectoFinal.pdb
+C:\Coding\orienobjetos\ProyectoFinal\obj\Debug\net7.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\orienobjetos\ProyectoFinal\obj\Debug\net7.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Coding\orienobjetos\ProyectoFinal\obj\Debug\net7.0\ProyectoFinal.AssemblyInfo.cs
+C:\Coding\orienobjetos\ProyectoFinal\obj\Debug\net7.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Coding\orienobjetos\ProyectoFinal\obj\Debug\net7.0\ProyectoFinal.dll
+C:\Coding\orienobjetos\ProyectoFinal\obj\Debug\net7.0\refint\ProyectoFinal.dll
+C:\Coding\orienobjetos\ProyectoFinal\obj\Debug\net7.0\ProyectoFinal.pdb
+C:\Coding\orienobjetos\ProyectoFinal\obj\Debug\net7.0\ProyectoFinal.genruntimeconfig.cache
+C:\Coding\orienobjetos\ProyectoFinal\obj\Debug\net7.0\ref\ProyectoFinal.dll
